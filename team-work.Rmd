@@ -53,6 +53,7 @@ Group 02
 |  Prabhjot Singh   |         4          |
 |  Yunxuan Zhang    |         4          |
 |  Chenyi Zhao      |         4          |
+|  Yelia Ye         |         4          |
 
 ## 2. Participation & communication
 
@@ -66,6 +67,7 @@ Group 02
 |   Prabhjot Singh  |                  4                   |
 |   Yunxuan Zhang   |                  4                   |
 |   Chenyi Zhao     |                  4                   |
+|   Yelia Ye        |                  4                   |
 
 ## 3. Helps group excel
 
@@ -80,6 +82,7 @@ Group 02
 |  Prabhjot Singh   |             4            |
 |  Yunxuan Zhang    |             4            |
 |  Chenyi Zhao      |             4            |
+|  Yelia Ye         |             4            |
 
 ## 4. Team player (cooperation)
 
@@ -94,6 +97,7 @@ Group 02
 |   Prabhjot Singh  |                  4               |
 |   Yunxuan Zhang   |                  4               |
 |   Chenyi Zhao     |                  4               |
+|   Yelia Ye        |                  4               |
 
 Below,
 briefly describe the specific contributions each team member
@@ -108,7 +112,47 @@ comment on the following areas:
     - What were the roles of others in your group?
 - What went well and poorly throughout the team project experience?
 
+The specific contributions:
+1. Yelia Ye
 
+- Responsible for completing data cleansing in Milestone 1
+- Responsible for completing Quarto file and references.bib in Milestone2.
+- Responsible for data cleaning and model testing in Milestone3.
+- Responsible for completing the R Package at Milestone 4 and improving the project based on peer review.
+- In addition to the main assigned tasks, often helps other team members to do some auxiliary work.
+
+2. Prabhjot Singh
+
+- Responsible for completing the data analysis section in Milestone1.
+- Responsible for completing the data analysis portion of Milestone 1, and for splitting the original R code into scripts in Milestone 2.
+- Responsible for completing the graphing test in Milestone3.
+- Responsible for improving the project based on peer review at Milestone 4.
+
+3. Yunxuan Zhang
+
+- Responsible for environment setup in Milestone1
+- Responsible for completing the makefile in Milestone2.
+- Responsible for testing the data visualisation in Milestone3.
+- Responsible for improving the project based on peer review at Milestone 4.
+- In addition to the main assigned tasks, he often helps other team members to do some auxiliary work.
+
+4. Chenyi Zhao   
+
+- Responsible for completing the text readme file in Milestone 1.
+- Responsible for setting up Docker in Milestone2.
+- Responsible for testing the model in Milestone3.
+- Responsible for improving the project based on peer review at Milestone 4.
+- In addition to the main assigned tasks, will help other team members to do some auxiliary work.
+
+I was more of a leader on the team for this project. I would have read the requirements for each phase of the project and communicated the important parts in the group chat. And remind everyone to claim their tasks. Final check and submit our project before the deadline. In addition to this, I also take on the more difficult parts of the division of labour or the parts that I am better at and provide support work and help to my teammates when they need it.
+
+In my opinion Yunxuan is a good researcher and when the group is stuck, will study other cases on the internet and solve our difficulties. He can stay up all night to fix a piece of code.
+
+Chenyi in my opinion is a good at writing comments for our project. Most of our readme files are done and refined by her. '
+
+Prabhjot also seems to me to be a conscientious person who will start his work early and report his process in time.
+
+My teammates and I had a great time working on this project, we communicated well, helped each other and encouraged each other. If something unexpected happens to anyone, he will also inform the situation in advance in the group and try to negotiate a solution. The only slight downside was that there was one assignment that was difficult and it took each of us longer than expected, and although we didn't turn it in late in the end, it was a very bad feeling. After that time we would leave more time to complete the work to deal with unexpected situations. Many thanks to everyone who contributed to this project!
 
 ## Submission instructions
 
